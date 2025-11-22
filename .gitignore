@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# But not directories
+!*/
+
+# Allow C files
+!*.c
+
+# Allow Makefile (case-sensitive)
+!Makefile
